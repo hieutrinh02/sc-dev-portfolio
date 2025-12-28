@@ -7,7 +7,7 @@ This repository showcases the personal blockchain projects I've built as part of
 
 ## <img src="./assets/logos/ethereum.svg" width="10" style="margin-right:3px;"/> EVM Projects
 
-| Category | Project | Repository | Date | Version | Status |
+| Category | Project | Repository | Last update | Version | Status |
 |:---------|:--------|:------------|:---------|:---------|:---------|
 | NFT | NFT Marketplace | evm-nft-marketplace | | | In Progress |
 | DeFi | AMM V2 | evm-amm-v2 | | | In Progress |
@@ -16,7 +16,7 @@ This repository showcases the personal blockchain projects I've built as part of
 
 ## <img src="./assets/logos/starknet.svg" width="16" style="margin-right:3px;"/> Starknet Projects
 
-| Category | Project | Repository | Date | Version | Status |
+| Category | Project | Repository | Last update | Version | Status |
 |:---------|:--------|:------------|:---------|:---------|:---------|
 | NFT | NFT Marketplace | starknet-nft-marketplace | | | In Progress |
 | DeFi | AMM V2 | starknet-amm-v2 | | | In Progress |
@@ -25,7 +25,7 @@ This repository showcases the personal blockchain projects I've built as part of
 
 ## <img src="./assets/logos/solana.svg" width="18" style="margin-right:3px;"/> Solana Projects
 
-| Category | Project | Repository | Date | Version | Status |
+| Category | Project | Repository | Last update | Version | Status |
 |:---------|:--------|:------------|:---------|:---------|:---------|
 | NFT | NFT Marketplace | solana-nft-marketplace | | | Planned |
 | DeFi | AMM V2 | solana-amm-v2 | | | Planned |
