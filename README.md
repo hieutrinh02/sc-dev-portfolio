@@ -1,7 +1,7 @@
 # Smart Contract Dev Portfolio
 Smart contract developer portfolio by [@hieutrinh02](https://github.com/hieutrinh02).
 
-This repository showcases the personal blockchain projects I've built as part of my development as a smart contract developer.
+This repository showcases the personal smart contract projects I've built as part of my development as a smart contract developer.
 
 ---
 
