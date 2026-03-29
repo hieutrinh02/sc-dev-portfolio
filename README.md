@@ -22,4 +22,4 @@ This repository showcases the personal smart contract projects I've built as par
 | Category | Project | Repository | Stack | Last update | Version | Status |
 |:---------|:--------|:------------|:---------|:---------|:---------|:---------|
 | NFT | NFT Marketplace | [solana-nft-marketplace](https://github.com/hieutrinh02/solana-nft-marketplace) | Anchor | 2026-02 | v0.1.0 | ✅ Done |
-| DeFi | CPMM | [solana-cpmm-program](https://github.com/hieutrinh02/solana-cpmm-program)<br/>[solana-cpmm-indexer](https://github.com/hieutrinh02/solana-cpmm-indexer)<br/>[solana-cpmm-frontend](https://github.com/hieutrinh02/solana-cpmm-fe) | Native | 2026-03 | v0.1.0 | ✅ Done |
+| DeFi | CPMM | [solana-cpmm-program](https://github.com/hieutrinh02/solana-cpmm-program)<br/>[solana-cpmm-indexer](https://github.com/hieutrinh02/solana-cpmm-indexer)<br/>[solana-cpmm-fe](https://github.com/hieutrinh02/solana-cpmm-fe) | Native | 2026-03 | v0.1.0 | ✅ Done |
